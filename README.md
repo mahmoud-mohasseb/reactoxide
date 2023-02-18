@@ -7,13 +7,13 @@
 https://codesandbox.io/s/react-folder-tree-3pinl?file=/src/FolderTree.js:188-196 
 
 
-# adding terminal for project 
+# Adding terminal for project 
 https://codesandbox.io/s/react-gitlab-trace-forked-u7lq0b?file=/src/TextDecoder.js:13-24
 
 import { XTerm } from "xterm-for-react";
 import Terminal from "terminal-in-react";
 
-# draggable list with also existing splittor package 
+# Draggable list with also existing splittor package 
 import {DefaultSplitter, Split, RenderSplitterProps} from '@geoffcox/react-splitter'; 
 import DraggableList from "react-draggable-lists"; 
 
